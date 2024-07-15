@@ -1,33 +1,3 @@
-
-# ForesToolboxRS <img src="man/figures/logo.png" align="right" width="150"/>
-
-[![License:
-MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub action build
-status](https://github.com/ytarazona/ForesToolboxRS/workflows/pkgdown/badge.svg)](https://github.com/ytarazona/ForesToolboxRS/actions)
-[![Codecov test
-coverage](https://codecov.io/gh/ytarazona/ForesToolboxRS/branch/main/graph/badge.svg)](https://codecov.io/gh/ytarazona/ForesToolboxRS?branch=main)
-[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-<!-- [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/APROGIS?locale.x=es_XC) -->
-
-<img src="man/figures/Readme-image.png">
-
-# Citation
-
-To cite the `ForesToolboxRS` package in publications, please use [this
-paper](https://doi.org/10.1080/07038992.2021.1941823):
-
-Yonatan Tarazona, Alaitz Zabala, Xavier Pons, Antoni Broquetas, Jakub
-Nowosad & Hamdi A. Zurqani (2021) Fusing Landsat and SAR Data for
-Mapping Tropical Deforestation through Machine Learning Classification
-and the PVts-β Non-Seasonal Detection Approach, Canadian Journal of
-Remote Sensing, DOI: 10.1080/07038992.2021.1941823
-
-LaTeX/BibTeX version can be obtained with:
-
-    library(ForesToolboxRS)
-    citation("ForesToolboxRS")
-
 # Introduction
 
 **ForesToolboxRS** is an R package providing a variety of tools and
